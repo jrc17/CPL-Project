@@ -20,7 +20,7 @@ python3 hash_table.py
 
 ```
 
-# Explanation/Comparison
+# Comparison
 
 ## Concept 1: Compiler vs Interpreter
 
