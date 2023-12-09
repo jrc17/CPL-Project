@@ -1,0 +1,49 @@
+apple: A round fruit with red or green skin and crisp flesh. It is a popular fruit for eating and is used in many desserts and dishes.
+elephant: A large, herbivorous mammal with a long trunk, large ears, and thick gray skin. Elephants are known for their intelligence and social behavior.
+computer: An electronic device that can store, retrieve, and process data. Computers are used for various tasks, including data processing, communication, and entertainment.
+bicycle: A human-powered vehicle with two wheels, typically propelled by pedaling. Bicycles are a popular mode of transportation and recreation.
+university: An institution of higher learning that offers undergraduate and postgraduate education. Universities provide a wide range of academic programs and research opportunities.
+banana: A tropical fruit with a soft, yellow skin and sweet flesh. Bananas are a good source of potassium and are often used in smoothies and desserts.
+cat: A small domesticated carnivorous mammal known for its agility and independent nature. Cats are popular pets and are known for their purring.
+dog: A domesticated mammal of the Canidae family, known for its loyalty and companionship with humans. Dogs come in various breeds and sizes.
+house: A structure built for human habitation, providing shelter and living space. Houses can vary in design and size, from small cottages to large mansions.
+car: A motor vehicle with four wheels used for transportation. Cars are widely used for commuting and travel.
+book: A printed or written work consisting of pages bound together, often containing literary or informational content. Books are a common form of knowledge dissemination.
+ocean: A vast body of saltwater covering most of the Earth's surface. Oceans are home to diverse marine life and play a crucial role in Earth's climate.
+mountain: A large landform that rises steeply above its surroundings, typically reaching high elevations. Mountains are popular for hiking and skiing.
+phone: A telecommunications device used for voice communication over long distances. Modern phones also include text messaging and internet capabilities.
+flower: The reproductive structure of a plant, often with colorful petals. Flowers are used for decoration, gardening, and symbolizing emotions.
+music: An art form that uses sound as a medium for expression, often consisting of melodies and harmonies. Music is enjoyed worldwide in various genres.
+bird: A warm-blooded vertebrate known for its ability to fly. Birds come in diverse species with unique characteristics.
+river: A natural flowing watercourse that usually leads to an ocean, sea, or lake. Rivers are essential for ecosystems and human water supply.
+coffee: A popular beverage made from roasted coffee beans. Coffee is known for its stimulating effects due to caffeine.
+language: A system of communication using words and symbols to convey meaning. Languages are diverse and unique to different cultures.
+tree: A woody perennial plant with a single main stem and branches. Trees provide oxygen, shade, and habitat for wildlife.
+beach: A shore made of sand, pebbles, or rocks, adjacent to a body of water. Beaches are popular for recreation and relaxation.
+sun: The star at the center of our solar system, providing heat and light to Earth. The sun is essential for life on our planet.
+moon: Earth's natural satellite, orbiting our planet. The moon's phases and movements have fascinated humans for centuries.
+movie: A form of entertainment that tells a story through moving images and sound. Movies are screened in theaters or watched at home.
+guitar: A musical instrument with strings that produce sound when plucked or strummed. Guitars are used in various music genres.
+planet: A celestial body that orbits a star, such as Earth in our solar system. Planets can vary in size and composition.
+camera: A device used to capture photographs or record videos. Cameras are essential for preserving memories and documenting events.
+cloud: A visible mass of water droplets or ice crystals suspended in the atmosphere. Clouds come in different shapes and types.
+shirt: A garment worn on the upper body, typically with buttons and a collar. Shirts are part of everyday clothing.
+shoe: A piece of footwear worn on the feet for protection and comfort. Shoes come in various styles and sizes.
+cake: A sweet baked dessert typically made with flour, sugar, and eggs, often decorated with icing or frosting. Cakes are enjoyed on special occasions.
+piano: A musical instrument with a keyboard that produces sound by striking strings with hammers. Pianos are used in classical and contemporary music.
+river: A natural flowing watercourse that usually leads to an ocean, sea, or lake. Rivers are essential for ecosystems and human water supply.
+coffee: A popular beverage made from roasted coffee beans. Coffee is known for its stimulating effects due to caffeine.
+language: A system of communication using words and symbols to convey meaning. Languages are diverse and unique to different cultures.
+tree: A woody perennial plant with a single main stem and branches. Trees provide oxygen, shade, and habitat for wildlife.
+beach: A shore made of sand, pebbles, or rocks, adjacent to a body of water. Beaches are popular for recreation and relaxation.
+sun: The star at the center of our solar system, providing heat and light to Earth. The sun is essential for life on our planet.
+moon: Earth's natural satellite, orbiting our planet. The moon's phases and movements have fascinated humans for centuries.
+movie: A form of entertainment that tells a story through moving images and sound. Movies are screened in theaters or watched at home.
+guitar: A musical instrument with strings that produce sound when plucked or strummed. Guitars are used in various music genres.
+planet: A celestial body that orbits a star, such as Earth in our solar system. Planets can vary in size and composition.
+camera: A device used to capture photographs or record videos. Cameras are essential for preserving memories and documenting events.
+cloud: A visible mass of water droplets or ice crystals suspended in the atmosphere. Clouds come in different shapes and types.
+shirt: A garment worn on the upper body, typically with buttons and a collar. Shirts are part of everyday clothing.
+shoe: A piece of footwear worn on the feet for protection and comfort. Shoes come in various styles and sizes.
+cake: A sweet baked dessert typically made with flour, sugar, and eggs, often decorated with icing or frosting. Cakes are enjoyed on special occasions.
+piano: A musical instrument with a keyboard that produces sound by striking strings with hammers. Pianos are used in classical and contemporary music.
