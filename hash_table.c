@@ -1,3 +1,5 @@
+// C program to implement a dictionary using a hash table.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

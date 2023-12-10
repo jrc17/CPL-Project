@@ -1,3 +1,6 @@
+# Python program to implement a dictionary using a hash table.
+
+
 # Class to represent a key-value pair (word-definition pair)
 # It is an Object-oriented concept with both variables and functions included inside the class
 class WordDefPair:
