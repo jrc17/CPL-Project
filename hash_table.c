@@ -19,6 +19,7 @@ typedef struct {
 } HashTable;
 
 // Hash function to compute the index for a given key
+// Imperative paradigm shown through the assignment and iterations
 unsigned int hash(const char* key) {
     unsigned int hash_value = 0;
     while (*key) {

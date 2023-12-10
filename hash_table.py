@@ -21,6 +21,7 @@ class DicHashTable:
         return hash_value
 
     # Insert a new word-definition pair into the hash table
+    # Imperative paradigm is shown through the use of assignments and iterations
     def insert(self, key, value):
         index = self.hash(key)
         new_pair = WordDefPair(key, value)

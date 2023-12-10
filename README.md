@@ -42,9 +42,9 @@ Python on the other hand, has an automatic garbage collector, which automates th
 
 C and Python, as shown in the provided programs, have different programming paradigms. C primarily employs an imperative programming paradigm, while Python utilizes both imperative and object-oriented paradigms.
 
-In the C program, the imperative paradigm is evident in the way data structures and functions are defined and used. The structures , 'WordDefPair' and 'HashTable' and the functions ,'insert', 'search', etc. are defined separately. Functions operate on these structures by explicitly modifying their state, characteristic of imperative programming. This paradigm emphasizes a sequence of commands to manipulate program state.
+In the C program, the imperative paradigm is evident in the way data structures and functions are defined and used. The structures , 'WordDefPair' and 'HashTable' and the functions ,'insert', 'search', etc. are defined separately. Functions operate on these structures by explicitly modifying their state, characteristic of imperative programming. This paradigm emphasizes a sequence of commands to manipulate program state which is done with the trademarks of imperative paradigms, assignment and iterations.
 
-On the other hand, the Python program demonstrates object-oriented principles through its use of classes and objects. The 'WordDefPair' and 'DicHashTable' are defined as classes, with each instance of these classes being an object that encapsulates both data and the methods that operate on that data. In Object Oriented programming, data structures (objects) have associated methods, enabling a more modular and intuitive approach to handling data and functionalities.
+On the other hand, the Python program demonstrates both imperative and object-oriented principles. It shows imperative paradigms through assignments and iterations while the object oriented paradigm through its use of classes and objects. The 'WordDefPair' and 'DicHashTable' are defined as classes, with each instance of these classes being an object that encapsulates both data and the methods that operate on that data. In Object Oriented programming, data structures (objects) have associated methods, enabling a more modular and intuitive approach to handling data and functionalities.
 
 # Output
 
